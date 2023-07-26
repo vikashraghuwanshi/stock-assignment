@@ -93,8 +93,7 @@ Optional Tasks -
 	
 	Implement robust error handling and provide informative error messages to guide users when things go wrong.
 	
-	Include feedback mechanisms like ratings, reviews, or user surveys to gather user input and improve the application based on user 
-    feedback.
+	Include feedback mechanisms like ratings, reviews, or user surveys to gather user input and improve the application based on user feedback.
 	
 	Provide support for multiple languages to cater to a global user base.
 	
