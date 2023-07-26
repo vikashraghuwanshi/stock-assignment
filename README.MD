@@ -67,22 +67,33 @@ Optional Tasks -
 
 In a real-world scenario with thousands of users, improving the user experience (UX) becomes crucial to ensure the application can handle high traffic, provide a seamless experience, and meet user expectations.
 
-a. We can implement load balancing and use scalable server architecture to handle a large number of simultaneous requests without compromising performance.
-b. Optimize server-side code to minimize response time and reduce API call latency.
-c. Monitor application performance and user behavior using analytics tools to identify bottlenecks and areas for improvement.
-d. Use data-driven insights to optimize the application's performance and UX continually.
-e. Introduce user authentication to allow registered users cache their search history, set preferences.
+We can implement load balancing and use scalable server architecture to handle a large number of simultaneous requests without compromising performance.
+
+Optimize server-side code to minimize response time and reduce API call latency.
+
+Monitor application performance and user behavior using analytics tools to identify bottlenecks and areas for improvement.
+
+Use data-driven insights to optimize the application's performance and UX continually.
+
+Introduce user authentication to allow registered users cache their search history, set preferences.
 
 
 
 
 2. What new features would you add in this product to increase it's utility for the end user.
 
-a. Implement search functionality to allow users to quickly find a specific stock by its    symbol or name.
-b. Add filters to enable users to narrow down their search results based on criteria such as date range, market, or industry.
-c. Utilize interactive charts and graphs to visually represent the stock data for better analysis and understanding.
-d. Allow users to customize the charts by selecting different timeframes or technical indicators.
-e. Implement robust error handling and provide informative error messages to guide users when things go wrong.
-f. Include feedback mechanisms like ratings, reviews, or user surveys to gather user input and improve the application based on user feedback.
-g. Provide support for multiple languages to cater to a global user base.
-h. Create detailed documentation and user guides to help users understand the application's features and functionalities.
+Implement search functionality to allow users to quickly find a specific stock by its    symbol or name.
+
+Add filters to enable users to narrow down their search results based on criteria such as date range, market, or industry.
+
+Utilize interactive charts and graphs to visually represent the stock data for better analysis and understanding.
+
+Allow users to customize the charts by selecting different timeframes or technical indicators.
+
+Implement robust error handling and provide informative error messages to guide users when things go wrong.
+
+Include feedback mechanisms like ratings, reviews, or user surveys to gather user input and improve the application based on user feedback.
+
+Provide support for multiple languages to cater to a global user base.
+
+Create detailed documentation and user guides to help users understand the application's features and functionalities.
