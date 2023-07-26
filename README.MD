@@ -68,8 +68,7 @@ Optional Tasks -
  In a real-world scenario with thousands of users, improving the user experience (UX) becomes crucial to ensure the application can handle 
  high traffic, provide a seamless experience, and meet user expectations.
 
-	We can implement load balancing and use scalable server architecture to handle a large number of simultaneous requests without 		 
-    compromising performance.
+	We can add a powerful http server such as Apache, Nginx or implement load balancing and use scalable server architecture to handle a large number of simultaneous requests without compromising performance.
 	
 	Optimize server-side code to minimize response time and reduce API call latency.
 	
